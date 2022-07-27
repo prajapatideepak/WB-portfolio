@@ -1,9 +1,23 @@
 import React from "react";
+import { Route } from "react-router";
+import Navbar from "./component/Navbar";
+import AboutScreen from "./screens/AboutScreen";
+import ContactScreen from "./screens/ContactScreen";
+import HomeScreen from "./screens/HomeScreen";
+import ServiceScreen from "./screens/ServiceScreen";
 
 function App() {
   return (
-    <div className="min-h-screen flex justify-center items-center  bg-blue-200 ">
-      <h1 className="text-6xl font-bold text-blue-500"> Wellbenix</h1>
+    <div className="min-h-screen   bg-white-100 ">
+      <Navbar />
+      <div className="container mx-auto">
+        <Route path="/service" component={ServiceScreen} />
+        <Route path="/contact" component={ContactScreen} />
+        <Route path="/about" component={AboutScreen} />
+        <Route path="/" exact>
+          <HomeScreen />
+        </Route>
+      </div>
     </div>
   );
 }
