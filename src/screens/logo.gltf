@@ -1,0 +1,351 @@
+{
+  "accessors": [
+    {
+      "componentType": 5125,
+      "count": 1224,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 416,
+      "max": [
+        1.007843137254902,
+        1.007843137254902,
+        1.007843137254902
+      ],
+      "min": [
+        -1.007843137254902,
+        -1.007843137254902,
+        -1.007843137254902
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 416,
+      "max": [
+        1.0007526721818074,
+        0.4570611298055141,
+        1.0007300699956836
+      ],
+      "min": [
+        -0.48141041648463617,
+        -0.0007301296003282973,
+        -0.4953054810769976
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 416,
+      "max": [
+        1.0003732277675808,
+        0.7480182368035191
+      ],
+      "min": [
+        0.2589293699984676,
+        -0.0007304865593784366
+      ],
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5125,
+      "count": 1224,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 416,
+      "max": [
+        1.007843137254902,
+        1.007843137254902,
+        1.007843137254902
+      ],
+      "min": [
+        -1.007843137254902,
+        -1.007843137254902,
+        -1.007843137254902
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 416,
+      "max": [
+        1.0007526721818074,
+        0.4570611298055141,
+        1.0007300699956836
+      ],
+      "min": [
+        -0.48141041648463617,
+        -0.0007301296003282973,
+        -0.4953054810769976
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 416,
+      "max": [
+        1.0003732277675808,
+        0.7480182368035191
+      ],
+      "min": [
+        0.2589293699984676,
+        -0.0007304865593784366
+      ],
+      "type": "VEC2"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Acvantad (https://sketchfab.com/Acvantad)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/python-programming-language-44d992bf56e244448e9ee5b4da083287",
+      "title": "Python Programming language"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 1470
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1472,
+      "byteLength": 1469
+    }
+  ],
+  "buffers": [
+    {
+      "name": "logo",
+      "byteLength": 2944,
+      "uri": "data:application/octet-stream;base64,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"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0343399,
+          0.171441,
+          0.376262,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.5
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE"
+    },
+    {
+      "doubleSided": true,
+      "name": ".001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          0.672443,
+          0.0561285,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.5
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 0,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 0,
+              "attributes": {
+                "NORMAL": 0,
+                "POSITION": 1,
+                "TEXCOORD_0": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 6,
+            "TEXCOORD_0": 7
+          },
+          "indices": 4,
+          "material": 1,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 1,
+              "attributes": {
+                "NORMAL": 0,
+                "POSITION": 1,
+                "TEXCOORD_0": 2
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.220446049250313e-16,
+        -1,
+        0,
+        0,
+        1,
+        2.220446049250313e-16,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3,
+        5
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.220446049250313e-16,
+        1,
+        0,
+        0,
+        -1,
+        2.220446049250313e-16,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        2.5010757446289062,
+        0,
+        0,
+        0,
+        0,
+        2.1082491549445084e-7,
+        2.501075744628898,
+        0,
+        0,
+        -2.501075744628898,
+        2.1082491549445084e-7,
+        0,
+        -0.0015692710876464844,
+        0,
+        0,
+        1
+      ],
+      "name": "������������������.001_0"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_4"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        -2.5010757446289062,
+        0,
+        0,
+        0,
+        0,
+        2.1082491549445084e-7,
+        2.501075744628898,
+        0,
+        0,
+        2.501075744628898,
+        -2.1082491549445084e-7,
+        0,
+        -0.0015692710876464844,
+        0,
+        0,
+        1
+      ],
+      "name": "������������������.002_1"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_6"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_draco_mesh_compression"
+  ],
+  "extensionsUsed": [
+    "KHR_draco_mesh_compression"
+  ]
+}
